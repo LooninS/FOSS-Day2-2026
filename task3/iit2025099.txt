@@ -1,0 +1,1 @@
+Git has merge conflict. I dont really like them. 
