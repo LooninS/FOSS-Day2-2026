@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+
+    int a = 2 , b = 3 ;
+    int c ;
+
+    c = a + b ;
+    printf("sum = %d",c);
+}
